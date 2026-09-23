@@ -82,6 +82,3 @@ Dashboard screenshots are available in the `screenshots` folder.
 
 ![Retail Executive Summary](Project1.png)
 
-![Dashboard Page 3](screenshots/dashboard-3.png)
-
-![Dashboard Page 4](screenshots/dashboard-4.png)
