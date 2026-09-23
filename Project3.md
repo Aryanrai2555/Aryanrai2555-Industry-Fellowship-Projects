@@ -77,6 +77,6 @@ The analysis supports:
 
 Dashboard screenshots are available in the `screenshots` folder.
 
-![Geography Overview](Project3-1.png)
+![Regional Overview](Project3-1.png)
 
-!(Project3-2.png)
+![City Shopping Behaviour](Project3-2.png)
